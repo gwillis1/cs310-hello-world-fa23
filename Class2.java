@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * GaShod Willis
  */
 
 public class Class2 {
